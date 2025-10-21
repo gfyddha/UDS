@@ -27,6 +27,22 @@ cd scripts
 ./run_mmlu.sh         # training and evaluation
 ```
 
+## 📖 Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```bibtex
+@misc{zou2025utilitydiversityawareonlinebatch,
+      title={Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning}, 
+      author={Heming Zou and Yixiu Mao and Yun Qu and Qi Wang and Xiangyang Ji},
+      year={2025},
+      eprint={2510.16882},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.16882}, 
+}
+```
+
 ## 📬 Contact
 
 If you have any questions or feedback, please feel free to reach out:  
