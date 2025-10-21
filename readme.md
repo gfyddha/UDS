@@ -32,14 +32,11 @@ cd scripts
 If you find this repository useful, please consider citing our paper:
 
 ```bibtex
-@misc{zou2025utilitydiversityawareonlinebatch,
-      title={Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning}, 
-      author={Heming Zou and Yixiu Mao and Yun Qu and Qi Wang and Xiangyang Ji},
-      year={2025},
-      eprint={2510.16882},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2510.16882}, 
+@article{zou2025utility,
+  title={Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning},
+  author={Zou, Heming and Mao, Yixiu and Qu, Yun and Wang, Qi and Ji, Xiangyang},
+  journal={arXiv preprint arXiv:2510.16882},
+  year={2025},
 }
 ```
 
