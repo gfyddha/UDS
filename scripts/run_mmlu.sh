@@ -7,7 +7,7 @@ CUDA_VISIBLE_DEVICES=0 python finetune.py \
          --data_path "/path/to/mmlu" \
          --output_dir "/path/to/output_dir" \
          --batch_size 128 \
-         --micro_batch_size 4 \
+         --micro_batch_size 8 \
          --num_epochs 1 \
          --learning_rate 1.5e-4 \
          --cutoff_len 512 \
