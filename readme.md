@@ -1,6 +1,6 @@
 # Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning
 
-This repository contains the official implementation of our paper:
+This repository contains the official implementation of our ICML 2026 paper:
 **"Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning."**
 
 ![](assets/pipeline_v2.png)
